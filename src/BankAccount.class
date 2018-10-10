@@ -1,0 +1,16 @@
+
+   import java.util.Scanner;
+
+    public class BankAccount {
+        double pinInput;
+        String username;
+
+    public Access (double pinInput) {
+        Scanner reader = new Scanner(System.in);
+        System.out.println("Enter your username: ");
+        String yourUser = reader.nextLine();
+        System.out.println(yourUser);
+    
+    }
+    Access()
+}
